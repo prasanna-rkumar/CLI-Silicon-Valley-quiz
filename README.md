@@ -1,2 +1,2 @@
 # CLI-MotoGP-quiz
-A node CLI MotoGP quiz app
+A node CLI Silicon Valley quiz app
